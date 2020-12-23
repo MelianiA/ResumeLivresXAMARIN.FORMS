@@ -1,0 +1,6 @@
+C:\Users\alyf\source\repos\BooksSummariesApp\BooksSummariesApp.Models\bin\Debug\BooksSummariesApp.Models.dll
+C:\Users\alyf\source\repos\BooksSummariesApp\BooksSummariesApp.Models\bin\Debug\BooksSummariesApp.Models.pdb
+C:\Users\alyf\source\repos\BooksSummariesApp\BooksSummariesApp.Models\obj\Debug\BooksSummariesApp.Models.csprojAssemblyReference.cache
+C:\Users\alyf\source\repos\BooksSummariesApp\BooksSummariesApp.Models\obj\Debug\BooksSummariesApp.Models.csproj.CoreCompileInputs.cache
+C:\Users\alyf\source\repos\BooksSummariesApp\BooksSummariesApp.Models\obj\Debug\BooksSummariesApp.Models.dll
+C:\Users\alyf\source\repos\BooksSummariesApp\BooksSummariesApp.Models\obj\Debug\BooksSummariesApp.Models.pdb
